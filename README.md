@@ -1,4 +1,4 @@
-# Christmas Tree Topper with Arduino and Neopixel LEDs  
+# Christmas Tree Star with Arduino and Neopixel LEDs  
 
 This repository contains all the resources needed to create a 3D-printed Christmas tree topper with 11 Neopixel LEDs controlled by an Arduino Nano.  
 
