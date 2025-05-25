@@ -1,53 +1,36 @@
-# Costruiamo una presa domotica WiFi passo passo 
+# Christmas Tree Star with Arduino and Neopixel LEDs  
 
-Questo repository contiene il materiale necessario per creare una presa domotica WiFi controllata da un ESP32-C3-Zero.  
+This repository contains all the resources needed to create a 3D-printed Christmas tree topper with 11 Neopixel LEDs controlled by an Arduino Nano.  
 
-## Cosa troverai:
-- Files STL per la stampa 3D.  
-- Arduino sketch per la programmazione della ESP32.
-- Shema elettrico per l'assemblaggio
+## What's Included  
+- STL files for 3D printing.  
+- Arduino sketch for LED control.  
+- Wiring diagram for assembly.  
 
-## Materiale necessario:
-- 1 HLK-PM01 5V AC-DC 220V-5V (~2,50 €)
-https://it.aliexpress.com/item/100500...
+## Materials Needed  
+- 1 Arduino Nano (~5€)
+- 11 Neopixel LEDs WS2812 (~0,50 €/cad)
+- Transparent PLA (~2,50 €)
 
-- 1 ESP32-C3-Zero (~12 €)
-https://www.amazon.it/dp/B0CJ97V27X?r...
+## Estimated Cost and Time  
+- **Cost:** ~€10-15.  
+- **Time:** ~12 printing hours and ~3 labor hours. 
 
-- resistenza 820Ω ¼ W (~0,12 €)
-https://www.amazon.it/RESISTENZE-820-...
+## 3D Printing Settings  
+- **Material:** Transparent PLA  
+- **Layer Height:** 0.2 mm  
+- **Infill:** 15%  
+- **Supports:** No  
+- **Print Speed:** 50 mm/s  
+- **Nozzle Temperature:** 240°C  
+- **Bed Temperature:** 70°C  
 
-- 1 LED rosso 5mm (~0,1 €)
-https://www.amazon.it/Luminosit%C3%A0...
+## Resources  
+- Watch the project overview on YouTube: https://youtu.be/LiFh_B4Sd7A 
+- STL files and details on Thingiverse: https://www.thingiverse.com/thing:6887564  
 
-- 1 LED Neopixel WS2812 (~0,50 €)
-https://it.aliexpress.com/item/100500...
+## License  
+- Code is licensed under the MIT License.  
+- STL files and schematics are licensed under the [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).  
 
-- 1 pulsante N.O. (~2 €)
-https://www.amazon.it/dp/B0C6M7VNVY?r...
-
-- 1 modulo Relay (~2 €)
-https://www.amazon.it/dp/B06XHJ2PBJ?r...
-
-## Stima costi e tempi  
-- **Costo:** ~€20.  
-- **Tempo:** ~5 ore di manodopera. 
-
-## Settaggi 3D Printing Settings  
-- **Materiale:** PLA  
-- **Altezza Layer:** 0.2 mm  
-- **Riempimento:** 15%  
-- **Supporti:** No  
-- **Velocità di stampa:** 50 mm/s  
-- **Temperatura Ugello:** 200°C  
-- **Temperatura Piatto:** 60°C  
-
-## Risorse:
-- Guarda i video su YouTube: https://www.youtube.com/watch?v=89ozmQWWAng&list=PLhX7wCyYF7DJaXods3LBYC-faqT1YxRBF&pp=0gcJCV8EOCosWNin
-- Files STL e dettagli su Thingiverse: (non ancora inseriti)
-
-## Licenze  
-- I codici sorgente sono rilsaciati sotto licenza MIT.  
-- I files STL sono rilsaciati sotto licenza  [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).  
-
-Buon lavoro!
+Happy making! 
